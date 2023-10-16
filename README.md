@@ -4,7 +4,7 @@ Backtesting library written in Rust. Used as backend for [Pytho](https://pytho.u
 ### [Eidyn](https://github.com/calumrussell/eidyn)
 Chess analytics application, data pipeline in Python/dbt, front-end [here](https://chess.ratioentrybuyer.com).
 
-### [Ponos](https://github.com/calumrusell/ponos)
+### [Ponos](https://github.com/calumrussell/ponos)
 Football statistics application, data pipeline with Java/Python/dbt, front-end [here](https://football.ratioentrybuyer.com).
 
 Other Sports analytics-related repos used above:
